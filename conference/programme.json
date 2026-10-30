@@ -1,0 +1,1840 @@
+{
+  "tracks": [
+    {
+      "id": "common",
+      "name": "Common",
+      "order": 0
+    },
+    {
+      "id": "track-4dcf52a1-64ca-4e19-a9eb-fb7ade4abd51",
+      "name": "Plenary",
+      "order": 1
+    },
+    {
+      "id": "track-51aaca83-d4e4-4240-adf8-341a1d165e77",
+      "name": "Devices & Materials",
+      "order": 2
+    },
+    {
+      "id": "track-4717d297-c9fe-4858-9959-32bb5107e939",
+      "name": "Circuits & Systems",
+      "order": 3
+    },
+    {
+      "id": "track-4e5cb6d7-0573-45b8-8440-847c7419cc25",
+      "name": "Posters",
+      "order": 4
+    }
+  ],
+  "sessions": [
+    {
+      "id": "session-6bdbd141-ba86-47c7-b309-95bfad8641c2",
+      "type": "registration",
+      "title": "Registration",
+      "date": "2027-11-08",
+      "start": "08:15",
+      "end": "08:55",
+      "locationId": "loc-9f33201d-4d56-4dad-a809-04ffc12e790f",
+      "trackId": "common",
+      "chairIds": [],
+      "presentationIds": [],
+      "calendarUid": "urn:uuid:b12761e6-7b70-4472-b290-a877becba508",
+      "sequence": 0,
+      "description": ""
+    },
+    {
+      "id": "session-b1fadd5c-85f1-4933-bb9a-530eca2ecad6",
+      "type": "special",
+      "title": "Opening",
+      "date": "2027-11-08",
+      "start": "08:55",
+      "end": "09:00",
+      "locationId": "venue-main",
+      "trackId": "common",
+      "chairIds": [],
+      "presentationIds": [],
+      "calendarUid": "urn:uuid:fdf08ddc-f485-4505-b766-c9e58accd7e6",
+      "sequence": 0,
+      "description": ""
+    },
+    {
+      "id": "session-028e98bb-94c7-4974-840d-4a1270755750",
+      "type": "session",
+      "title": "Morning Plenary",
+      "date": "2027-11-08",
+      "start": "09:00",
+      "end": "09:45",
+      "locationId": "venue-main",
+      "trackId": "track-4dcf52a1-64ca-4e19-a9eb-fb7ade4abd51",
+      "chairIds": [
+        "person-41afe078-bd39-450f-a94f-05cb39b5d983"
+      ],
+      "presentationIds": [
+        "presentation-0a2c9c40-eea9-403b-a3fa-5b29a48e8dd3"
+      ]
+    },
+    {
+      "id": "session-05361f94-54e5-46e1-b2f9-d98265a1469b",
+      "type": "break",
+      "title": "Morning break",
+      "date": "2027-11-08",
+      "start": "09:45",
+      "end": "10:00",
+      "locationId": "loc-9f33201d-4d56-4dad-a809-04ffc12e790f",
+      "trackId": "common",
+      "chairIds": [],
+      "presentationIds": [],
+      "calendarUid": "urn:uuid:32ddde1c-1cce-44a8-8354-d7e1e6756992",
+      "sequence": 0,
+      "description": ""
+    },
+    {
+      "id": "session-0702ba5c-d464-4c2f-820f-98a2a659570b",
+      "type": "session",
+      "title": "Day 1 · Switching Physics",
+      "date": "2027-11-08",
+      "start": "10:00",
+      "end": "11:45",
+      "locationId": "venue-main",
+      "trackId": "track-51aaca83-d4e4-4240-adf8-341a1d165e77",
+      "chairIds": [
+        "person-b720b441-af7e-4008-9c90-6eb7e2b6095c"
+      ],
+      "presentationIds": [
+        "presentation-52016af0-6b49-45df-97ae-31a692572b0b",
+        "presentation-21c32900-1ec4-4c8d-b07a-d21d057d8b57",
+        "presentation-d2c74f3f-bb53-4cee-bff5-2037ac37b7f1"
+      ]
+    },
+    {
+      "id": "session-ea9da4b2-9fcf-4ed9-af95-dfb98240d45a",
+      "type": "session",
+      "title": "Day 1 · System Architecture",
+      "date": "2027-11-08",
+      "start": "10:00",
+      "end": "11:45",
+      "locationId": "loc-4bd41efc-632b-4c01-b982-3b6eabd5829c",
+      "trackId": "track-4717d297-c9fe-4858-9959-32bb5107e939",
+      "chairIds": [
+        "person-9f8dfce3-e0d1-4630-b4c5-bcd2c52c498a"
+      ],
+      "presentationIds": [
+        "presentation-5ef8fb50-c920-4495-a18a-f981b7246c7e",
+        "presentation-882dcfdf-397d-472e-9b35-3039c4eec2ff",
+        "presentation-cd225c1d-3ee0-4e9d-a868-efe34ea3aa86"
+      ]
+    },
+    {
+      "id": "session-531d6b6f-c5ac-4e2d-998d-4cf3a38a68fd",
+      "type": "session",
+      "title": "Day 1 · Materials and Interfaces",
+      "date": "2027-11-08",
+      "start": "13:00",
+      "end": "14:45",
+      "locationId": "venue-main",
+      "trackId": "track-51aaca83-d4e4-4240-adf8-341a1d165e77",
+      "chairIds": [
+        "person-afe8800c-d848-4acf-9ee4-8b00491c87a1"
+      ],
+      "presentationIds": [
+        "presentation-11698aab-0287-48c0-8503-1142351168fb",
+        "presentation-dc3f4e52-5422-421f-8524-fe4a40ab71fb",
+        "presentation-42d0763f-7b50-4b76-970b-54b46c789c2d"
+      ]
+    },
+    {
+      "id": "session-7ac9f6b7-9fdc-4d80-a1fd-40d239b7aa12",
+      "type": "session",
+      "title": "Day 1 · Computing Circuits",
+      "date": "2027-11-08",
+      "start": "13:00",
+      "end": "14:45",
+      "locationId": "loc-4bd41efc-632b-4c01-b982-3b6eabd5829c",
+      "trackId": "track-4717d297-c9fe-4858-9959-32bb5107e939",
+      "chairIds": [
+        "person-3d472159-b79b-409e-9e87-00c1741b216a"
+      ],
+      "presentationIds": [
+        "presentation-3b00bbcb-e5cd-4984-84f7-42574a3673c8",
+        "presentation-c8b21b92-5baf-48f7-af56-64f223583538",
+        "presentation-8dc356a9-dc7d-472b-bf3d-2ccb1a65bae1"
+      ]
+    },
+    {
+      "id": "session-124f92b7-5290-4528-9fb6-f9ad01cd07fb",
+      "type": "session",
+      "title": "Day 1 · Reliability and Measurement",
+      "date": "2027-11-08",
+      "start": "15:00",
+      "end": "16:45",
+      "locationId": "venue-main",
+      "trackId": "track-51aaca83-d4e4-4240-adf8-341a1d165e77",
+      "chairIds": [
+        "person-4664dd9b-5828-4b58-b055-88104d6f0540"
+      ],
+      "presentationIds": [
+        "presentation-2c8519e9-40fd-4438-966c-90d47b9ba091",
+        "presentation-2f58aef4-fd02-4c24-b182-e0e1f2abd4de",
+        "presentation-d3b98d94-953a-4126-98f5-e92019fde6b7"
+      ]
+    },
+    {
+      "id": "session-da6aaa97-3ccf-431b-a48a-1b06645e9840",
+      "type": "session",
+      "title": "Day 1 · Algorithms and Applications",
+      "date": "2027-11-08",
+      "start": "15:00",
+      "end": "16:45",
+      "locationId": "loc-4bd41efc-632b-4c01-b982-3b6eabd5829c",
+      "trackId": "track-4717d297-c9fe-4858-9959-32bb5107e939",
+      "chairIds": [
+        "person-a3e91bb6-b51e-46ea-8dd2-7d1a3a4dc670"
+      ],
+      "presentationIds": [
+        "presentation-4a7ef9d1-65a3-4e57-9936-17680970cc5c",
+        "presentation-8c7697b3-7d68-436e-90e9-8afa99d2dd5f",
+        "presentation-6807930b-77b0-410b-81b6-a5361a6fc841"
+      ]
+    },
+    {
+      "id": "session-2e1a4df8-cfb5-4749-8cbb-c9fe4b3348b1",
+      "type": "meal",
+      "title": "Lunch",
+      "date": "2027-11-08",
+      "start": "11:45",
+      "end": "13:00",
+      "locationId": "loc-9f33201d-4d56-4dad-a809-04ffc12e790f",
+      "trackId": "common",
+      "chairIds": [],
+      "presentationIds": [],
+      "calendarUid": "urn:uuid:4929bd15-634c-46b7-b75a-667726e38cb1",
+      "sequence": 0,
+      "description": ""
+    },
+    {
+      "id": "session-61c0b510-f7d1-4ab4-a113-008f5df4ac72",
+      "type": "break",
+      "title": "Afternoon break",
+      "date": "2027-11-08",
+      "start": "14:45",
+      "end": "15:00",
+      "locationId": "loc-9f33201d-4d56-4dad-a809-04ffc12e790f",
+      "trackId": "common",
+      "chairIds": [],
+      "presentationIds": [],
+      "calendarUid": "urn:uuid:48070547-9695-424a-bac2-0fe6f8332010",
+      "sequence": 0,
+      "description": ""
+    },
+    {
+      "id": "session-520b9505-9840-4f79-9503-618a227943f7",
+      "type": "social",
+      "title": "Welcome reception",
+      "date": "2027-11-08",
+      "start": "18:15",
+      "end": "19:45",
+      "locationId": "loc-9f33201d-4d56-4dad-a809-04ffc12e790f",
+      "trackId": "common",
+      "chairIds": [],
+      "presentationIds": [],
+      "calendarUid": "urn:uuid:e11f4cff-092d-4a3a-9f29-0a614be99787",
+      "sequence": 0,
+      "description": ""
+    },
+    {
+      "id": "session-b7e97ef0-a2e3-4ba1-b762-e7117452484a",
+      "type": "registration",
+      "title": "Registration",
+      "date": "2027-11-09",
+      "start": "08:15",
+      "end": "08:55",
+      "locationId": "loc-9f33201d-4d56-4dad-a809-04ffc12e790f",
+      "trackId": "common",
+      "chairIds": [],
+      "presentationIds": [],
+      "calendarUid": "urn:uuid:63cf8741-091a-406a-8263-fdc5e89187c7",
+      "sequence": 0,
+      "description": ""
+    },
+    {
+      "id": "session-7ef0f911-fdf0-48d4-a608-c369bdada66c",
+      "type": "session",
+      "title": "Morning Plenary",
+      "date": "2027-11-09",
+      "start": "09:00",
+      "end": "09:45",
+      "locationId": "venue-main",
+      "trackId": "track-4dcf52a1-64ca-4e19-a9eb-fb7ade4abd51",
+      "chairIds": [
+        "person-41afe078-bd39-450f-a94f-05cb39b5d983"
+      ],
+      "presentationIds": [
+        "presentation-13869981-5c61-4ee1-b29c-93f033c186ff"
+      ]
+    },
+    {
+      "id": "session-4508c4d8-4530-4149-a0f8-a58e2a574327",
+      "type": "break",
+      "title": "Morning break",
+      "date": "2027-11-09",
+      "start": "09:45",
+      "end": "10:00",
+      "locationId": "loc-9f33201d-4d56-4dad-a809-04ffc12e790f",
+      "trackId": "common",
+      "chairIds": [],
+      "presentationIds": [],
+      "calendarUid": "urn:uuid:b63b822c-5a10-47cf-9ec8-bff35aa78b14",
+      "sequence": 0,
+      "description": ""
+    },
+    {
+      "id": "session-66ea1fb8-3f57-4861-ac0e-163659ae9735",
+      "type": "session",
+      "title": "Day 2 · Switching Physics",
+      "date": "2027-11-09",
+      "start": "10:00",
+      "end": "11:45",
+      "locationId": "venue-main",
+      "trackId": "track-51aaca83-d4e4-4240-adf8-341a1d165e77",
+      "chairIds": [
+        "person-b935ade7-8618-404b-bfff-87dd56a181f3"
+      ],
+      "presentationIds": [
+        "presentation-675bb96d-d423-478b-b5bc-88395ffadf44",
+        "presentation-5ace463b-e7d3-4371-9b92-b71523f3c0d2",
+        "presentation-ecba3eaa-baf3-4677-aeec-1648344b7827"
+      ]
+    },
+    {
+      "id": "session-f397a0a2-6c6e-4613-acaf-78dea7856485",
+      "type": "session",
+      "title": "Day 2 · System Architecture",
+      "date": "2027-11-09",
+      "start": "10:00",
+      "end": "11:45",
+      "locationId": "loc-4bd41efc-632b-4c01-b982-3b6eabd5829c",
+      "trackId": "track-4717d297-c9fe-4858-9959-32bb5107e939",
+      "chairIds": [
+        "person-bfb25cf3-f16f-400e-b900-b02af779bd75"
+      ],
+      "presentationIds": [
+        "presentation-39172814-7d0f-4452-a99c-a73607305542",
+        "presentation-4977fe17-471b-48b8-a597-81d962f4cb6b",
+        "presentation-737b64e9-2612-4d0e-a6e3-9d3ab5aba1c8"
+      ]
+    },
+    {
+      "id": "session-480e14cb-a499-4910-b34b-4d10b5b5665a",
+      "type": "session",
+      "title": "Day 2 · Materials and Interfaces",
+      "date": "2027-11-09",
+      "start": "13:00",
+      "end": "14:45",
+      "locationId": "venue-main",
+      "trackId": "track-51aaca83-d4e4-4240-adf8-341a1d165e77",
+      "chairIds": [
+        "person-97666587-8969-4b76-86cb-d9b374609d1e"
+      ],
+      "presentationIds": [
+        "presentation-f91d3a59-b80a-46e3-85ce-0e07b2c256a1",
+        "presentation-5fb9e0b7-a5e7-4106-9c87-757d66d58b29",
+        "presentation-7600f337-3139-43a3-b145-509435d0f494"
+      ]
+    },
+    {
+      "id": "session-71404b8d-4939-4a90-9e1b-1945eafedd9e",
+      "type": "session",
+      "title": "Day 2 · Computing Circuits",
+      "date": "2027-11-09",
+      "start": "13:00",
+      "end": "14:45",
+      "locationId": "loc-4bd41efc-632b-4c01-b982-3b6eabd5829c",
+      "trackId": "track-4717d297-c9fe-4858-9959-32bb5107e939",
+      "chairIds": [
+        "person-27a9659c-c008-42fa-bdc9-31e41eac7020"
+      ],
+      "presentationIds": [
+        "presentation-dfa213de-0769-4166-a493-ef44202da2a0",
+        "presentation-592c0e7e-4ad0-4124-9582-93915b3d3e5d",
+        "presentation-3b3478f8-2ecb-4dd8-94d2-2706f5d6f6a8"
+      ]
+    },
+    {
+      "id": "session-f2813590-7525-410b-b5e2-68a188927afc",
+      "type": "session",
+      "title": "Day 2 · Reliability and Measurement",
+      "date": "2027-11-09",
+      "start": "15:00",
+      "end": "16:45",
+      "locationId": "venue-main",
+      "trackId": "track-51aaca83-d4e4-4240-adf8-341a1d165e77",
+      "chairIds": [
+        "person-5115ac80-4e9a-44a9-b9d4-ac151c8683fa"
+      ],
+      "presentationIds": [
+        "presentation-12a11c19-a47f-43f0-ab7f-a812adb8ccd2",
+        "presentation-c49530b8-af45-48dc-a6e7-8c7f1a842c89",
+        "presentation-bc79f282-cd74-4b31-82f6-ad4df391a592"
+      ]
+    },
+    {
+      "id": "session-f6e113e7-cacd-4243-86de-b0fc59b289d0",
+      "type": "session",
+      "title": "Day 2 · Algorithms and Applications",
+      "date": "2027-11-09",
+      "start": "15:00",
+      "end": "16:45",
+      "locationId": "loc-4bd41efc-632b-4c01-b982-3b6eabd5829c",
+      "trackId": "track-4717d297-c9fe-4858-9959-32bb5107e939",
+      "chairIds": [
+        "person-39c7c3b5-5b4b-4234-8500-003f541c2fee"
+      ],
+      "presentationIds": [
+        "presentation-4e33be74-25b5-48fb-8ae3-ef01655e90a3",
+        "presentation-dbdb5caf-777b-46a9-bf60-4adc8e8b7d4b",
+        "presentation-c28efcfc-98d1-437a-8be4-3839976aec39"
+      ]
+    },
+    {
+      "id": "session-7ca66708-d616-4ad5-8598-701fe4d1c3b5",
+      "type": "meal",
+      "title": "Lunch",
+      "date": "2027-11-09",
+      "start": "11:45",
+      "end": "13:00",
+      "locationId": "loc-9f33201d-4d56-4dad-a809-04ffc12e790f",
+      "trackId": "common",
+      "chairIds": [],
+      "presentationIds": [],
+      "calendarUid": "urn:uuid:fd8e37b3-c4dd-4a00-8322-4459c123a09f",
+      "sequence": 0,
+      "description": ""
+    },
+    {
+      "id": "session-279f15f5-12c0-4356-b080-83dde1fcae83",
+      "type": "break",
+      "title": "Afternoon break",
+      "date": "2027-11-09",
+      "start": "14:45",
+      "end": "15:00",
+      "locationId": "loc-9f33201d-4d56-4dad-a809-04ffc12e790f",
+      "trackId": "common",
+      "chairIds": [],
+      "presentationIds": [],
+      "calendarUid": "urn:uuid:50fdf9bc-8d67-49cb-831e-ca3ea9a91a39",
+      "sequence": 0,
+      "description": ""
+    },
+    {
+      "id": "session-afdaa808-cb54-43f6-89c6-30ce836126fd",
+      "type": "social",
+      "title": "Conference dinner",
+      "date": "2027-11-09",
+      "start": "19:00",
+      "end": "21:00",
+      "locationId": "venue-main",
+      "trackId": "common",
+      "chairIds": [],
+      "presentationIds": [],
+      "calendarUid": "urn:uuid:f08fb6d7-b6db-42eb-80de-d07b706de911",
+      "sequence": 0,
+      "description": ""
+    },
+    {
+      "id": "session-a5c3e31a-618a-4437-a506-6865b1415096",
+      "type": "registration",
+      "title": "Registration",
+      "date": "2027-11-10",
+      "start": "08:15",
+      "end": "08:55",
+      "locationId": "loc-9f33201d-4d56-4dad-a809-04ffc12e790f",
+      "trackId": "common",
+      "chairIds": [],
+      "presentationIds": [],
+      "calendarUid": "urn:uuid:3891f876-fc56-41ae-8c75-5ac70e846049",
+      "sequence": 0,
+      "description": ""
+    },
+    {
+      "id": "session-486be2e0-1648-41bc-813d-70b234ba748f",
+      "type": "session",
+      "title": "Morning Plenary",
+      "date": "2027-11-10",
+      "start": "09:00",
+      "end": "09:45",
+      "locationId": "venue-main",
+      "trackId": "track-4dcf52a1-64ca-4e19-a9eb-fb7ade4abd51",
+      "chairIds": [
+        "person-41afe078-bd39-450f-a94f-05cb39b5d983"
+      ],
+      "presentationIds": [
+        "presentation-a298f089-1706-4148-8fd6-fb4e38143d0d"
+      ]
+    },
+    {
+      "id": "session-f7fa1527-cccf-404c-88ac-5cdb94d1399f",
+      "type": "break",
+      "title": "Morning break",
+      "date": "2027-11-10",
+      "start": "09:45",
+      "end": "10:00",
+      "locationId": "loc-9f33201d-4d56-4dad-a809-04ffc12e790f",
+      "trackId": "common",
+      "chairIds": [],
+      "presentationIds": [],
+      "calendarUid": "urn:uuid:8bea841f-781c-4607-9710-ec28a2afacc7",
+      "sequence": 0,
+      "description": ""
+    },
+    {
+      "id": "session-696ad576-69ad-4415-a303-17055d8e9aa7",
+      "type": "session",
+      "title": "Day 3 · Switching Physics",
+      "date": "2027-11-10",
+      "start": "10:00",
+      "end": "11:45",
+      "locationId": "venue-main",
+      "trackId": "track-51aaca83-d4e4-4240-adf8-341a1d165e77",
+      "chairIds": [
+        "person-ecda2da5-d3eb-48e1-8eb8-fc19aac3f270"
+      ],
+      "presentationIds": [
+        "presentation-52a7ef04-57a9-4029-8f41-cc8ce251aa8e",
+        "presentation-b0973569-940e-4929-99ac-a135b30f2a72",
+        "presentation-80ac3af2-a9ff-4d4e-af34-d4d941d15cc9"
+      ]
+    },
+    {
+      "id": "session-5f121851-04c1-47a5-950c-16fb0a33c0e8",
+      "type": "session",
+      "title": "Day 3 · System Architecture",
+      "date": "2027-11-10",
+      "start": "10:00",
+      "end": "11:45",
+      "locationId": "loc-4bd41efc-632b-4c01-b982-3b6eabd5829c",
+      "trackId": "track-4717d297-c9fe-4858-9959-32bb5107e939",
+      "chairIds": [
+        "person-24a5a260-efe0-45fa-baaf-32ec633e89be"
+      ],
+      "presentationIds": [
+        "presentation-78fbd658-bf38-4473-aadc-cd9b2b37fc3f",
+        "presentation-564dc44b-438d-4521-89b4-cb0a5d12142d",
+        "presentation-e0facc3e-0e5f-4cb4-9583-f7d5979806d6"
+      ]
+    },
+    {
+      "id": "session-57e04c1d-4c9f-4096-905d-059e463dfaa6",
+      "type": "session",
+      "title": "Day 3 · Materials and Interfaces",
+      "date": "2027-11-10",
+      "start": "13:00",
+      "end": "14:45",
+      "locationId": "venue-main",
+      "trackId": "track-51aaca83-d4e4-4240-adf8-341a1d165e77",
+      "chairIds": [
+        "person-063157cb-b755-4f42-a301-d1bf5d01e8f1"
+      ],
+      "presentationIds": [
+        "presentation-764d855b-95f2-476f-bcbe-a6a0b2ee9dd0",
+        "presentation-2eb91a35-47ff-41b0-a09f-e198e6a1967c",
+        "presentation-de00fe75-b954-4f86-8d33-99ac499db683"
+      ]
+    },
+    {
+      "id": "session-ffcfc36b-0991-4387-adb5-90ff9b74e2f3",
+      "type": "session",
+      "title": "Day 3 · Computing Circuits",
+      "date": "2027-11-10",
+      "start": "13:00",
+      "end": "14:45",
+      "locationId": "loc-4bd41efc-632b-4c01-b982-3b6eabd5829c",
+      "trackId": "track-4717d297-c9fe-4858-9959-32bb5107e939",
+      "chairIds": [
+        "person-e26979fe-d0a4-420a-98a3-a1d2a2a37c0e"
+      ],
+      "presentationIds": [
+        "presentation-17316879-b2fd-4601-9783-a8e0c1922d10",
+        "presentation-ff285abf-4f6a-4aa7-87d4-0ba34d48f90b",
+        "presentation-96b0d81f-8384-437d-a32f-7126fe92c0da"
+      ]
+    },
+    {
+      "id": "session-0d9dfa57-e76d-420d-b0f0-782703877066",
+      "type": "session",
+      "title": "Day 3 · Reliability and Measurement",
+      "date": "2027-11-10",
+      "start": "15:00",
+      "end": "16:45",
+      "locationId": "venue-main",
+      "trackId": "track-51aaca83-d4e4-4240-adf8-341a1d165e77",
+      "chairIds": [
+        "person-fda8f169-f657-4ea6-8ef1-a3a52b9822c1"
+      ],
+      "presentationIds": [
+        "presentation-25360021-1b89-488f-907f-ecb97083f13f",
+        "presentation-ae8989f7-4535-438a-a7c6-3f4fa7ef28bb",
+        "presentation-1483ede9-53f6-4249-a608-27b43c488e86"
+      ]
+    },
+    {
+      "id": "session-4c3163d5-73b8-4699-8dc3-e81a36bfdc4a",
+      "type": "session",
+      "title": "Day 3 · Algorithms and Applications",
+      "date": "2027-11-10",
+      "start": "15:00",
+      "end": "16:45",
+      "locationId": "loc-4bd41efc-632b-4c01-b982-3b6eabd5829c",
+      "trackId": "track-4717d297-c9fe-4858-9959-32bb5107e939",
+      "chairIds": [
+        "person-7af3e953-47a9-4e9f-bc00-3fd146c61286"
+      ],
+      "presentationIds": [
+        "presentation-344997a0-588b-4f56-86e1-8a7acae3c04c",
+        "presentation-0fdfc154-87f7-4946-a7c6-6b862c8b2d08",
+        "presentation-10bc7e24-be71-4fc1-aa00-a7a8e65782d9"
+      ]
+    },
+    {
+      "id": "session-1fdd29b1-b94b-4d79-9099-187ead116aab",
+      "type": "meal",
+      "title": "Lunch",
+      "date": "2027-11-10",
+      "start": "11:45",
+      "end": "13:00",
+      "locationId": "loc-9f33201d-4d56-4dad-a809-04ffc12e790f",
+      "trackId": "common",
+      "chairIds": [],
+      "presentationIds": [],
+      "calendarUid": "urn:uuid:25c19db8-222e-4a75-aa52-8914f7b58892",
+      "sequence": 0,
+      "description": ""
+    },
+    {
+      "id": "session-3f60670c-fac6-4e45-9a1d-a3a45fce69fd",
+      "type": "break",
+      "title": "Afternoon break",
+      "date": "2027-11-10",
+      "start": "14:45",
+      "end": "15:00",
+      "locationId": "loc-9f33201d-4d56-4dad-a809-04ffc12e790f",
+      "trackId": "common",
+      "chairIds": [],
+      "presentationIds": [],
+      "calendarUid": "urn:uuid:3ce9ae36-c79b-43b0-8f19-413d91c0e592",
+      "sequence": 0,
+      "description": ""
+    },
+    {
+      "id": "session-c28032f8-f6c1-491e-9114-0f28611bb50b",
+      "type": "special",
+      "title": "Closing",
+      "date": "2027-11-10",
+      "start": "17:00",
+      "end": "17:25",
+      "locationId": "venue-main",
+      "trackId": "common",
+      "chairIds": [],
+      "presentationIds": [],
+      "calendarUid": "urn:uuid:aaf4f875-76b4-4ea2-a692-a575bead81ca",
+      "sequence": 0,
+      "description": ""
+    },
+    {
+      "id": "session-f0cb5963-2afe-4691-92bc-76d957b87a10",
+      "type": "poster-session",
+      "title": "Poster Forum 1",
+      "date": "2027-11-08",
+      "start": "17:00",
+      "end": "18:00",
+      "locationId": "loc-d08dbc68-3c98-4fbe-a12e-ed5b255a160e",
+      "trackId": "track-4e5cb6d7-0573-45b8-8440-847c7419cc25",
+      "chairIds": [],
+      "presentationIds": [],
+      "calendarUid": "urn:uuid:d33eeabc-6dcc-458f-8c2e-a5a6275f7199",
+      "sequence": 0
+    },
+    {
+      "id": "session-fb83c18a-e479-479e-bb69-4a64d9b6acb9",
+      "type": "poster-session",
+      "title": "Poster Forum 2",
+      "date": "2027-11-09",
+      "start": "17:00",
+      "end": "18:00",
+      "locationId": "loc-d08dbc68-3c98-4fbe-a12e-ed5b255a160e",
+      "trackId": "track-4e5cb6d7-0573-45b8-8440-847c7419cc25",
+      "chairIds": [],
+      "presentationIds": [],
+      "calendarUid": "urn:uuid:b628e633-b3fd-4da1-8e71-9893eb576677",
+      "sequence": 0
+    }
+  ],
+  "presentations": [
+    {
+      "id": "presentation-0a2c9c40-eea9-403b-a3fa-5b29a48e8dd3",
+      "sessionId": "session-028e98bb-94c7-4974-840d-4a1270755750",
+      "type": "keynote",
+      "start": "09:00",
+      "end": "09:45",
+      "title": "Beyond von Neumann: From Materials to Adaptive Systems",
+      "speakerIds": [
+        "person-41afe078-bd39-450f-a94f-05cb39b5d983"
+      ],
+      "abstract": "Synthetic keynote describing open challenges, modeling and integration strategies for energy-efficient brain-inspired hardware.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:f36f4c30-b205-48d8-871c-a302b1aa14b6",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-52016af0-6b49-45df-97ae-31a692572b0b",
+      "sessionId": "session-0702ba5c-d464-4c2f-820f-98a2a659570b",
+      "type": "talk",
+      "start": "10:00",
+      "end": "10:35",
+      "title": "Interface-Limited Kinetics in Correlated-Oxide Memristors",
+      "speakerIds": [
+        "person-b720b441-af7e-4008-9c90-6eb7e2b6095c"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:8206438b-24ec-44ee-8395-5aa40423cf4e",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-21c32900-1ec4-4c8d-b07a-d21d057d8b57",
+      "sessionId": "session-0702ba5c-d464-4c2f-820f-98a2a659570b",
+      "type": "talk",
+      "start": "10:35",
+      "end": "11:10",
+      "title": "Extracting Compact Models from Time-Dependent Resistive Switching",
+      "speakerIds": [
+        "person-9f8dfce3-e0d1-4630-b4c5-bcd2c52c498a"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:b586b692-62f7-48bc-845d-247035a080b9",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-d2c74f3f-bb53-4cee-bff5-2037ac37b7f1",
+      "sessionId": "session-0702ba5c-d464-4c2f-820f-98a2a659570b",
+      "type": "talk",
+      "start": "11:10",
+      "end": "11:45",
+      "title": "Atomic-Layer-Deposited Oxides for Adaptive Crossbar Arrays",
+      "speakerIds": [
+        "person-afe8800c-d848-4acf-9ee4-8b00491c87a1"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:7fb8b0da-94c2-436e-bf3c-93c7517c7b26",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-5ef8fb50-c920-4495-a18a-f981b7246c7e",
+      "sessionId": "session-ea9da4b2-9fcf-4ed9-af95-dfb98240d45a",
+      "type": "talk",
+      "start": "10:00",
+      "end": "10:35",
+      "title": "Distinguishing Filamentary and Interface-Type Switching Mechanisms",
+      "speakerIds": [
+        "person-3d472159-b79b-409e-9e87-00c1741b216a"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:b06b9963-3281-4d27-984b-6a641dc5014a",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-882dcfdf-397d-472e-9b35-3039c4eec2ff",
+      "sessionId": "session-ea9da4b2-9fcf-4ed9-af95-dfb98240d45a",
+      "type": "talk",
+      "start": "10:35",
+      "end": "11:10",
+      "title": "Stochastic Threshold Switching for Event-Driven Neuron Circuits",
+      "speakerIds": [
+        "person-4664dd9b-5828-4b58-b055-88104d6f0540"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:1278559b-30d7-47f4-a373-96f1a895b9df",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-cd225c1d-3ee0-4e9d-a868-efe34ea3aa86",
+      "sessionId": "session-ea9da4b2-9fcf-4ed9-af95-dfb98240d45a",
+      "type": "talk",
+      "start": "11:10",
+      "end": "11:45",
+      "title": "On-Chip Plasticity with Analog Conductance States",
+      "speakerIds": [
+        "person-a3e91bb6-b51e-46ea-8dd2-7d1a3a4dc670"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:dd6045a8-372b-4d71-9498-619251736a00",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-11698aab-0287-48c0-8503-1142351168fb",
+      "sessionId": "session-531d6b6f-c5ac-4e2d-998d-4cf3a38a68fd",
+      "type": "talk",
+      "start": "13:00",
+      "end": "13:35",
+      "title": "Low-Voltage Programming of Ferroelectric Synaptic Elements",
+      "speakerIds": [
+        "person-b935ade7-8618-404b-bfff-87dd56a181f3"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:bb72af2a-0e9c-4a77-b510-9ed60fdb3551",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-dc3f4e52-5422-421f-8524-fe4a40ab71fb",
+      "sessionId": "session-531d6b6f-c5ac-4e2d-998d-4cf3a38a68fd",
+      "type": "talk",
+      "start": "13:35",
+      "end": "14:10",
+      "title": "Thermal Drift Compensation in Large Memristive Networks",
+      "speakerIds": [
+        "person-bfb25cf3-f16f-400e-b900-b02af779bd75"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:69d89a67-5300-499f-80da-ea3e5bbc5263",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-42d0763f-7b50-4b76-970b-54b46c789c2d",
+      "sessionId": "session-531d6b6f-c5ac-4e2d-998d-4cf3a38a68fd",
+      "type": "talk",
+      "start": "14:10",
+      "end": "14:45",
+      "title": "Multiscale Simulation of Oxygen-Vacancy Dynamics",
+      "speakerIds": [
+        "person-97666587-8969-4b76-86cb-d9b374609d1e"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:3721f748-3432-454f-be9d-628a5ebaf49e",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-3b00bbcb-e5cd-4984-84f7-42574a3673c8",
+      "sessionId": "session-7ac9f6b7-9fdc-4d80-a1fd-40d239b7aa12",
+      "type": "talk",
+      "start": "13:00",
+      "end": "13:35",
+      "title": "Reservoir Computing with Coupled Oscillator Arrays",
+      "speakerIds": [
+        "person-27a9659c-c008-42fa-bdc9-31e41eac7020"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:406dcf0f-13f3-4fe9-862e-9bc340ea40de",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-c8b21b92-5baf-48f7-af56-64f223583538",
+      "sessionId": "session-7ac9f6b7-9fdc-4d80-a1fd-40d239b7aa12",
+      "type": "talk",
+      "start": "13:35",
+      "end": "14:10",
+      "title": "Pulse-Train Measurements for Neuromorphic Device Benchmarking",
+      "speakerIds": [
+        "person-5115ac80-4e9a-44a9-b9d4-ac151c8683fa"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:59ef000d-00ec-46a5-817b-b4d4f5b5ff06",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-8dc356a9-dc7d-472b-bf3d-2ccb1a65bae1",
+      "sessionId": "session-7ac9f6b7-9fdc-4d80-a1fd-40d239b7aa12",
+      "type": "talk",
+      "start": "14:10",
+      "end": "14:45",
+      "title": "Crossbar Nonidealities and Their Impact on Edge Inference",
+      "speakerIds": [
+        "person-39c7c3b5-5b4b-4234-8500-003f541c2fee"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:25175411-85c2-4559-a058-158199be15c3",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-2c8519e9-40fd-4438-966c-90d47b9ba091",
+      "sessionId": "session-124f92b7-5290-4528-9fb6-f9ad01cd07fb",
+      "type": "talk",
+      "start": "15:00",
+      "end": "15:35",
+      "title": "Reliable Analog Weight Updates under Device Variability",
+      "speakerIds": [
+        "person-ecda2da5-d3eb-48e1-8eb8-fc19aac3f270"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:886570fa-ce0d-4d23-b7e2-3e123c969097",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-2f58aef4-fd02-4c24-b182-e0e1f2abd4de",
+      "sessionId": "session-124f92b7-5290-4528-9fb6-f9ad01cd07fb",
+      "type": "talk",
+      "start": "15:35",
+      "end": "16:10",
+      "title": "Integrated Spiking Neurons using Volatile Memristive Elements",
+      "speakerIds": [
+        "person-24a5a260-efe0-45fa-baaf-32ec633e89be"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:f0960254-5fab-469a-b02d-0f333b20c43f",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-d3b98d94-953a-4126-98f5-e92019fde6b7",
+      "sessionId": "session-124f92b7-5290-4528-9fb6-f9ad01cd07fb",
+      "type": "talk",
+      "start": "16:10",
+      "end": "16:45",
+      "title": "Photonic and Electronic Hybrid Reservoir Architectures",
+      "speakerIds": [
+        "person-063157cb-b755-4f42-a301-d1bf5d01e8f1"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:97888942-c01c-4721-af27-7b9645120438",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-4a7ef9d1-65a3-4e57-9936-17680970cc5c",
+      "sessionId": "session-da6aaa97-3ccf-431b-a48a-1b06645e9840",
+      "type": "talk",
+      "start": "15:00",
+      "end": "15:35",
+      "title": "Scalable Programming Protocols for Dense Memory Arrays",
+      "speakerIds": [
+        "person-e26979fe-d0a4-420a-98a3-a1d2a2a37c0e"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:9fff2461-84b2-44f0-b110-f3fb99de354b",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-8c7697b3-7d68-436e-90e9-8afa99d2dd5f",
+      "sessionId": "session-da6aaa97-3ccf-431b-a48a-1b06645e9840",
+      "type": "talk",
+      "start": "15:35",
+      "end": "16:10",
+      "title": "Energy-Aware Mapping of Neural Networks onto Resistive Hardware",
+      "speakerIds": [
+        "person-fda8f169-f657-4ea6-8ef1-a3a52b9822c1"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:3bb6e098-d7fd-41bb-86f4-4a811c8e94a5",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-6807930b-77b0-410b-81b6-a5361a6fc841",
+      "sessionId": "session-da6aaa97-3ccf-431b-a48a-1b06645e9840",
+      "type": "talk",
+      "start": "16:10",
+      "end": "16:45",
+      "title": "Electrochemical Gating of Transistor-Like Artificial Synapses",
+      "speakerIds": [
+        "person-7af3e953-47a9-4e9f-bc00-3fd146c61286"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:7d235a63-5203-4d3b-8414-5debe3d79285",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-13869981-5c61-4ee1-b29c-93f033c186ff",
+      "sessionId": "session-7ef0f911-fdf0-48d4-a608-c369bdada66c",
+      "type": "keynote",
+      "start": "09:00",
+      "end": "09:45",
+      "title": "Memristors as Computational Primitives for Edge Intelligence",
+      "speakerIds": [
+        "person-afe8800c-d848-4acf-9ee4-8b00491c87a1"
+      ],
+      "abstract": "Synthetic keynote describing open challenges, modeling and integration strategies for energy-efficient brain-inspired hardware.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:6ab1fc9b-15b6-4ec6-8d2b-edff5ca73c9c",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-675bb96d-d423-478b-b5bc-88395ffadf44",
+      "sessionId": "session-66ea1fb8-3f57-4861-ac0e-163659ae9735",
+      "type": "talk",
+      "start": "10:00",
+      "end": "10:35",
+      "title": "Characterizing Switching Interfaces with Operando Spectroscopy",
+      "speakerIds": [
+        "person-0b16edfe-15a2-4dbc-8aca-10255cb4188a"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:9458b7ef-8c1c-48fa-95f3-d325c63663d8",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-5ace463b-e7d3-4371-9b92-b71523f3c0d2",
+      "sessionId": "session-66ea1fb8-3f57-4861-ac0e-163659ae9735",
+      "type": "talk",
+      "start": "10:35",
+      "end": "11:10",
+      "title": "Magnetic Tunnel Junction Networks for Stochastic Computing",
+      "speakerIds": [
+        "person-db2689bd-250a-425d-8ea9-89fa5c1db5cf"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:b8a8ebb2-d5d3-4289-9c7f-a70453ec314a",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-ecba3eaa-baf3-4677-aeec-1648344b7827",
+      "sessionId": "session-66ea1fb8-3f57-4861-ac0e-163659ae9735",
+      "type": "talk",
+      "start": "11:10",
+      "end": "11:45",
+      "title": "Assessing Radiation Response in Oxide Switching Structures",
+      "speakerIds": [
+        "person-260706ca-9a59-4196-8487-6547f801b543"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:530c114b-1262-4f6e-8f8a-8c01055ba061",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-39172814-7d0f-4452-a99c-a73607305542",
+      "sessionId": "session-f397a0a2-6c6e-4613-acaf-78dea7856485",
+      "type": "talk",
+      "start": "10:00",
+      "end": "10:35",
+      "title": "Hardware-Aware Training with Quantized Conductance Levels",
+      "speakerIds": [
+        "person-41afe078-bd39-450f-a94f-05cb39b5d983"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:44f675ce-5961-48ec-b937-97925a74ff4c",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-4977fe17-471b-48b8-a597-81d962f4cb6b",
+      "sessionId": "session-f397a0a2-6c6e-4613-acaf-78dea7856485",
+      "type": "talk",
+      "start": "10:35",
+      "end": "11:10",
+      "title": "Time-Series Classification using Physical Reservoir States",
+      "speakerIds": [
+        "person-363dc4c1-a7a8-4202-b2a2-cfc3108dfce6"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:f2b93cf9-6c31-4043-b40c-6fa2d035bab7",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-737b64e9-2612-4d0e-a6e3-9d3ab5aba1c8",
+      "sessionId": "session-f397a0a2-6c6e-4613-acaf-78dea7856485",
+      "type": "talk",
+      "start": "11:10",
+      "end": "11:45",
+      "title": "Defect Engineering for Reproducible Neuromorphic Devices",
+      "speakerIds": [
+        "person-56776a53-3374-43ab-956f-8a82d2b8338e"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:17d5adad-bfa9-4767-ab01-04e09c27d222",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-f91d3a59-b80a-46e3-85ce-0e07b2c256a1",
+      "sessionId": "session-480e14cb-a499-4910-b34b-4d10b5b5665a",
+      "type": "talk",
+      "start": "13:00",
+      "end": "13:35",
+      "title": "Device-Circuit Co-Design for Mixed-Signal Learning Systems",
+      "speakerIds": [
+        "person-b720b441-af7e-4008-9c90-6eb7e2b6095c"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:b7d90724-a2a3-4792-a38d-1efc00f44b74",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-5fb9e0b7-a5e7-4106-9c87-757d66d58b29",
+      "sessionId": "session-480e14cb-a499-4910-b34b-4d10b5b5665a",
+      "type": "talk",
+      "start": "13:35",
+      "end": "14:10",
+      "title": "Fast Calibration of Array-Scale Conductance Distributions",
+      "speakerIds": [
+        "person-9f8dfce3-e0d1-4630-b4c5-bcd2c52c498a"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:cbddebae-a3a9-447e-9cf3-104bd7c74016",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-7600f337-3139-43a3-b145-509435d0f494",
+      "sessionId": "session-480e14cb-a499-4910-b34b-4d10b5b5665a",
+      "type": "talk",
+      "start": "14:10",
+      "end": "14:45",
+      "title": "Improved Retention Analysis for Multilevel Memristors",
+      "speakerIds": [
+        "person-afe8800c-d848-4acf-9ee4-8b00491c87a1"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:69ca41b5-cae0-4a36-a880-02536da2db14",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-dfa213de-0769-4166-a493-ef44202da2a0",
+      "sessionId": "session-71404b8d-4939-4a90-9e1b-1945eafedd9e",
+      "type": "talk",
+      "start": "13:00",
+      "end": "13:35",
+      "title": "Ultralow-Power Event Detection in Hybrid CMOS Arrays",
+      "speakerIds": [
+        "person-3d472159-b79b-409e-9e87-00c1741b216a"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:f89372bc-165b-484b-988e-67c1c696ab03",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-592c0e7e-4ad0-4124-9582-93915b3d3e5d",
+      "sessionId": "session-71404b8d-4939-4a90-9e1b-1945eafedd9e",
+      "type": "talk",
+      "start": "13:35",
+      "end": "14:10",
+      "title": "Programmable Oscillators for Probabilistic Inference",
+      "speakerIds": [
+        "person-4664dd9b-5828-4b58-b055-88104d6f0540"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:bd186951-1fa0-4ae6-9df3-33a223badc9f",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-3b3478f8-2ecb-4dd8-94d2-2706f5d6f6a8",
+      "sessionId": "session-71404b8d-4939-4a90-9e1b-1945eafedd9e",
+      "type": "talk",
+      "start": "14:10",
+      "end": "14:45",
+      "title": "Signal Processing with Coupled Nonlinear Elements",
+      "speakerIds": [
+        "person-a3e91bb6-b51e-46ea-8dd2-7d1a3a4dc670"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:0c836486-e5a4-47e8-99a0-14fb57f8c932",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-12a11c19-a47f-43f0-ab7f-a812adb8ccd2",
+      "sessionId": "session-f2813590-7525-410b-b5e2-68a188927afc",
+      "type": "talk",
+      "start": "15:00",
+      "end": "15:35",
+      "title": "Integrated RRAM Arrays with Peripheral Feedback Control",
+      "speakerIds": [
+        "person-b935ade7-8618-404b-bfff-87dd56a181f3"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:e6ac85d0-f204-4454-a176-ea579e4a3aa4",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-c49530b8-af45-48dc-a6e7-8c7f1a842c89",
+      "sessionId": "session-f2813590-7525-410b-b5e2-68a188927afc",
+      "type": "talk",
+      "start": "15:35",
+      "end": "16:10",
+      "title": "Reliability Limits under High-Frequency Switching Pulses",
+      "speakerIds": [
+        "person-bfb25cf3-f16f-400e-b900-b02af779bd75"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:21e9c9bc-8761-4afa-ba2c-07922e7e502d",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-bc79f282-cd74-4b31-82f6-ad4df391a592",
+      "sessionId": "session-f2813590-7525-410b-b5e2-68a188927afc",
+      "type": "talk",
+      "start": "16:10",
+      "end": "16:45",
+      "title": "Modeling Parasitic Effects in Crossbar Interconnects",
+      "speakerIds": [
+        "person-97666587-8969-4b76-86cb-d9b374609d1e"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:8ac82be4-f51c-44ea-9324-8dc280e78314",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-4e33be74-25b5-48fb-8ae3-ef01655e90a3",
+      "sessionId": "session-f6e113e7-cacd-4243-86de-b0fc59b289d0",
+      "type": "talk",
+      "start": "15:00",
+      "end": "15:35",
+      "title": "Unsupervised Learning on Temporal Memristive Networks",
+      "speakerIds": [
+        "person-27a9659c-c008-42fa-bdc9-31e41eac7020"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:a9e27766-4f6b-4b2f-8939-edb9579ac23e",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-dbdb5caf-777b-46a9-bf60-4adc8e8b7d4b",
+      "sessionId": "session-f6e113e7-cacd-4243-86de-b0fc59b289d0",
+      "type": "talk",
+      "start": "15:35",
+      "end": "16:10",
+      "title": "Learning from Sparse Signals with Artificial Dendrites",
+      "speakerIds": [
+        "person-5115ac80-4e9a-44a9-b9d4-ac151c8683fa"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:8cf1d983-6a72-4044-b0f0-facc10cba352",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-c28efcfc-98d1-437a-8be4-3839976aec39",
+      "sessionId": "session-f6e113e7-cacd-4243-86de-b0fc59b289d0",
+      "type": "talk",
+      "start": "16:10",
+      "end": "16:45",
+      "title": "Designing Robust Readout Circuits for Analog Synapses",
+      "speakerIds": [
+        "person-39c7c3b5-5b4b-4234-8500-003f541c2fee"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:c5da76be-5d4c-414a-a467-254a59e493cd",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-a298f089-1706-4148-8fd6-fb4e38143d0d",
+      "sessionId": "session-486be2e0-1648-41bc-813d-70b234ba748f",
+      "type": "keynote",
+      "start": "09:00",
+      "end": "09:45",
+      "title": "Neuromorphic Computing Across Devices, Circuits, and Algorithms",
+      "speakerIds": [
+        "person-bfb25cf3-f16f-400e-b900-b02af779bd75"
+      ],
+      "abstract": "Synthetic keynote describing open challenges, modeling and integration strategies for energy-efficient brain-inspired hardware.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:b626da47-fb03-4792-b0b2-f4364a366476",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-52a7ef04-57a9-4029-8f41-cc8ce251aa8e",
+      "sessionId": "session-696ad576-69ad-4415-a303-17055d8e9aa7",
+      "type": "talk",
+      "start": "10:00",
+      "end": "10:35",
+      "title": "Materials Discovery Strategies for Active Neuromorphic Elements",
+      "speakerIds": [
+        "person-ecda2da5-d3eb-48e1-8eb8-fc19aac3f270"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:bdecbea8-4b45-4b04-8a71-7f299e0e3066",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-b0973569-940e-4929-99ac-a135b30f2a72",
+      "sessionId": "session-696ad576-69ad-4415-a303-17055d8e9aa7",
+      "type": "talk",
+      "start": "10:35",
+      "end": "11:10",
+      "title": "Emergent Dynamics in Disordered Nanoscale Networks",
+      "speakerIds": [
+        "person-24a5a260-efe0-45fa-baaf-32ec633e89be"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:7fe1b507-1e20-40c6-bb27-a2577372a1ba",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-80ac3af2-a9ff-4d4e-af34-d4d941d15cc9",
+      "sessionId": "session-696ad576-69ad-4415-a303-17055d8e9aa7",
+      "type": "talk",
+      "start": "11:10",
+      "end": "11:45",
+      "title": "Comparing Oxide and Organic Switching Device Architectures",
+      "speakerIds": [
+        "person-063157cb-b755-4f42-a301-d1bf5d01e8f1"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:1d262699-9ea6-4d0e-b20a-51279c10381b",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-78fbd658-bf38-4473-aadc-cd9b2b37fc3f",
+      "sessionId": "session-5f121851-04c1-47a5-950c-16fb0a33c0e8",
+      "type": "talk",
+      "start": "10:00",
+      "end": "10:35",
+      "title": "Adaptive Sensors with Local Neuromorphic Processing",
+      "speakerIds": [
+        "person-e26979fe-d0a4-420a-98a3-a1d2a2a37c0e"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:0b42237d-319e-4dfb-8951-fa0125a4410a",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-564dc44b-438d-4521-89b4-cb0a5d12142d",
+      "sessionId": "session-5f121851-04c1-47a5-950c-16fb0a33c0e8",
+      "type": "talk",
+      "start": "10:35",
+      "end": "11:10",
+      "title": "Coupled Electrochemical Oscillations in Thin-Film Networks",
+      "speakerIds": [
+        "person-fda8f169-f657-4ea6-8ef1-a3a52b9822c1"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:c2b1570e-2c83-4683-9982-6f22f90d3ee9",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-e0facc3e-0e5f-4cb4-9583-f7d5979806d6",
+      "sessionId": "session-5f121851-04c1-47a5-950c-16fb0a33c0e8",
+      "type": "talk",
+      "start": "11:10",
+      "end": "11:45",
+      "title": "Exploring Symmetry and Asymmetry in Weight Update Curves",
+      "speakerIds": [
+        "person-7af3e953-47a9-4e9f-bc00-3fd146c61286"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:4612cc2d-0bd2-412e-8c62-f4fa63400d3b",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-764d855b-95f2-476f-bcbe-a6a0b2ee9dd0",
+      "sessionId": "session-57e04c1d-4c9f-4096-905d-059e463dfaa6",
+      "type": "talk",
+      "start": "13:00",
+      "end": "13:35",
+      "title": "Neural State Estimation using Memory-Centric Hardware",
+      "speakerIds": [
+        "person-0b16edfe-15a2-4dbc-8aca-10255cb4188a"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:4c3f571c-7ee0-42d6-9b20-ff1c42a0044b",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-2eb91a35-47ff-41b0-a09f-e198e6a1967c",
+      "sessionId": "session-57e04c1d-4c9f-4096-905d-059e463dfaa6",
+      "type": "talk",
+      "start": "13:35",
+      "end": "14:10",
+      "title": "Model Reduction for Compact Spiking-Circuit Simulators",
+      "speakerIds": [
+        "person-db2689bd-250a-425d-8ea9-89fa5c1db5cf"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:b5773480-4639-4a22-ab2c-a28dc72c4dce",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-de00fe75-b954-4f86-8d33-99ac499db683",
+      "sessionId": "session-57e04c1d-4c9f-4096-905d-059e463dfaa6",
+      "type": "talk",
+      "start": "14:10",
+      "end": "14:45",
+      "title": "Interfacial Redox Processes in Perovskite Memory Devices",
+      "speakerIds": [
+        "person-260706ca-9a59-4196-8487-6547f801b543"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:a61cf56f-32d4-4a41-8fd4-d38d4e44170b",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-17316879-b2fd-4601-9783-a8e0c1922d10",
+      "sessionId": "session-ffcfc36b-0991-4387-adb5-90ff9b74e2f3",
+      "type": "talk",
+      "start": "13:00",
+      "end": "13:35",
+      "title": "Controlling Variability through Multi-Terminal Device Design",
+      "speakerIds": [
+        "person-41afe078-bd39-450f-a94f-05cb39b5d983"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:e0ca1cf6-994a-4c52-a2d3-4288632e230e",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-ff285abf-4f6a-4aa7-87d4-0ba34d48f90b",
+      "sessionId": "session-ffcfc36b-0991-4387-adb5-90ff9b74e2f3",
+      "type": "talk",
+      "start": "13:35",
+      "end": "14:10",
+      "title": "Stability of Volatile Switching in Repeated Pulse Trains",
+      "speakerIds": [
+        "person-363dc4c1-a7a8-4202-b2a2-cfc3108dfce6"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:7b74fb20-0e7e-47f7-bf73-b96f980b2c9a",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-96b0d81f-8384-437d-a32f-7126fe92c0da",
+      "sessionId": "session-ffcfc36b-0991-4387-adb5-90ff9b74e2f3",
+      "type": "talk",
+      "start": "14:10",
+      "end": "14:45",
+      "title": "Multimodal Inference with Analog and Digital Co-Processors",
+      "speakerIds": [
+        "person-56776a53-3374-43ab-956f-8a82d2b8338e"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:11797b51-95df-476a-a6ff-211e465ef603",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-25360021-1b89-488f-907f-ecb97083f13f",
+      "sessionId": "session-0d9dfa57-e76d-420d-b0f0-782703877066",
+      "type": "talk",
+      "start": "15:00",
+      "end": "15:35",
+      "title": "Benchmarking Workloads for Physical Computing Systems",
+      "speakerIds": [
+        "person-b720b441-af7e-4008-9c90-6eb7e2b6095c"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:f0d5a3bc-4ff3-49f3-98d0-06592de4d0f0",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-ae8989f7-4535-438a-a7c6-3f4fa7ef28bb",
+      "sessionId": "session-0d9dfa57-e76d-420d-b0f0-782703877066",
+      "type": "talk",
+      "start": "15:35",
+      "end": "16:10",
+      "title": "Acoustic Signal Recognition with Memory-Based Reservoirs",
+      "speakerIds": [
+        "person-9f8dfce3-e0d1-4630-b4c5-bcd2c52c498a"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:1797f08c-9ce1-4c0a-a128-0d446cf08ac7",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-1483ede9-53f6-4249-a608-27b43c488e86",
+      "sessionId": "session-0d9dfa57-e76d-420d-b0f0-782703877066",
+      "type": "talk",
+      "start": "16:10",
+      "end": "16:45",
+      "title": "Hybrid Transistor-Memristor Cells for Online Adaptation",
+      "speakerIds": [
+        "person-afe8800c-d848-4acf-9ee4-8b00491c87a1"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:15c9510b-412e-4857-a82b-71f9423f346c",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-344997a0-588b-4f56-86e1-8a7acae3c04c",
+      "sessionId": "session-4c3163d5-73b8-4699-8dc3-e81a36bfdc4a",
+      "type": "talk",
+      "start": "15:00",
+      "end": "15:35",
+      "title": "Circuit-Level Tolerance to Abrupt Conductance Changes",
+      "speakerIds": [
+        "person-3d472159-b79b-409e-9e87-00c1741b216a"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:307430c0-adaa-42d7-816c-023806bc781e",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-0fdfc154-87f7-4946-a7c6-6b862c8b2d08",
+      "sessionId": "session-4c3163d5-73b8-4699-8dc3-e81a36bfdc4a",
+      "type": "talk",
+      "start": "15:35",
+      "end": "16:10",
+      "title": "Engineering Training Signals for On-Device Plasticity",
+      "speakerIds": [
+        "person-4664dd9b-5828-4b58-b055-88104d6f0540"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:f8778ef8-17e6-48db-9cf2-bc6b300b6a0f",
+      "sequence": 0
+    },
+    {
+      "id": "presentation-10bc7e24-be71-4fc1-aa00-a7a8e65782d9",
+      "sessionId": "session-4c3163d5-73b8-4699-8dc3-e81a36bfdc4a",
+      "type": "talk",
+      "start": "16:10",
+      "end": "16:45",
+      "title": "Time-Resolved Optical Probes of Switching Dynamics",
+      "speakerIds": [
+        "person-a3e91bb6-b51e-46ea-8dd2-7d1a3a4dc670"
+      ],
+      "abstract": "Synthetic abstract: experimental, computational, or circuit-level evaluation of emerging neuromorphic components, with attention to reproducibility and scalable deployment.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:5f7d08f3-0c09-4209-a62c-5cd6f10b3fa9",
+      "sequence": 0
+    }
+  ],
+  "posters": [
+    {
+      "id": "poster-f9ae51b6-fb98-4814-a717-1b7182242ac4",
+      "posterSessionId": "session-f0cb5963-2afe-4691-92bc-76d957b87a10",
+      "number": "P01",
+      "title": "Switching Polarity Dependence in Mixed-Oxide Junctions",
+      "authorIds": [
+        "person-4664dd9b-5828-4b58-b055-88104d6f0540"
+      ],
+      "abstract": "Synthetic poster describing preliminary data and a device characterization workflow.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:4541f7e8-f479-410a-839d-24b986dcbb63",
+      "sequence": 0
+    },
+    {
+      "id": "poster-10cc466a-ef1e-41f1-95fe-caa0f93ea328",
+      "posterSessionId": "session-f0cb5963-2afe-4691-92bc-76d957b87a10",
+      "number": "P02",
+      "title": "Crossbar Yield Mapping at Wafer Scale",
+      "authorIds": [
+        "person-bfb25cf3-f16f-400e-b900-b02af779bd75"
+      ],
+      "abstract": "Synthetic poster describing preliminary data and a device characterization workflow.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:c86d549e-9368-4dfe-be29-1a7f0c5dcd2f",
+      "sequence": 0
+    },
+    {
+      "id": "poster-a914091f-494c-46c1-accf-d6c176d2830b",
+      "posterSessionId": "session-f0cb5963-2afe-4691-92bc-76d957b87a10",
+      "number": "P03",
+      "title": "Resistive State Drift after Repeated Programming",
+      "authorIds": [
+        "person-5115ac80-4e9a-44a9-b9d4-ac151c8683fa"
+      ],
+      "abstract": "Synthetic poster describing preliminary data and a device characterization workflow.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:0cfb8f3d-1621-4c06-9b20-d93aec2fd0b3",
+      "sequence": 0
+    },
+    {
+      "id": "poster-d2d3dd91-acfc-4f7e-aed0-b938a440b353",
+      "posterSessionId": "session-f0cb5963-2afe-4691-92bc-76d957b87a10",
+      "number": "P04",
+      "title": "Noise Spectroscopy of Volatile Memory Cells",
+      "authorIds": [
+        "person-24a5a260-efe0-45fa-baaf-32ec633e89be"
+      ],
+      "abstract": "Synthetic poster describing preliminary data and a device characterization workflow.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:2a0a4abd-bd9a-4e37-a094-227cd1a6d395",
+      "sequence": 0
+    },
+    {
+      "id": "poster-4f4411db-b6f1-4769-860c-605f8325c9bd",
+      "posterSessionId": "session-f0cb5963-2afe-4691-92bc-76d957b87a10",
+      "number": "P05",
+      "title": "Printed Electrolyte-Gated Synapses for Flexible Sensors",
+      "authorIds": [
+        "person-fda8f169-f657-4ea6-8ef1-a3a52b9822c1"
+      ],
+      "abstract": "Synthetic poster describing preliminary data and a device characterization workflow.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:5565a513-8283-413f-8960-ee27e62bc9fa",
+      "sequence": 0
+    },
+    {
+      "id": "poster-e1e3250f-8957-4851-81d8-0a0de8ee0569",
+      "posterSessionId": "session-f0cb5963-2afe-4691-92bc-76d957b87a10",
+      "number": "P06",
+      "title": "Ionic Transport in Nanolayered Oxide Stacks",
+      "authorIds": [
+        "person-db2689bd-250a-425d-8ea9-89fa5c1db5cf"
+      ],
+      "abstract": "Synthetic poster describing preliminary data and a device characterization workflow.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:beaf64b4-0cd7-4906-88e8-f737bb7a29f2",
+      "sequence": 0
+    },
+    {
+      "id": "poster-5f9f4620-0ed7-4f4f-9aae-8f7d2271f549",
+      "posterSessionId": "session-f0cb5963-2afe-4691-92bc-76d957b87a10",
+      "number": "P07",
+      "title": "Stability Mapping in Oscillator-Based Reservoirs",
+      "authorIds": [
+        "person-363dc4c1-a7a8-4202-b2a2-cfc3108dfce6"
+      ],
+      "abstract": "Synthetic poster describing preliminary data and a device characterization workflow.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:64439278-e74d-4806-bd73-b900517c88e9",
+      "sequence": 0
+    },
+    {
+      "id": "poster-7c580ca1-8b8b-442e-95e4-c8290433f345",
+      "posterSessionId": "session-f0cb5963-2afe-4691-92bc-76d957b87a10",
+      "number": "P08",
+      "title": "Learning-Rules for Low-Precision Artificial Synapses",
+      "authorIds": [
+        "person-9f8dfce3-e0d1-4630-b4c5-bcd2c52c498a"
+      ],
+      "abstract": "Synthetic poster describing preliminary data and a device characterization workflow.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:42db4800-d6f0-4d1b-a814-e74d19c4451b",
+      "sequence": 0
+    },
+    {
+      "id": "poster-2d75b03f-1fc7-43c9-b13e-03fe7009bdd1",
+      "posterSessionId": "session-f0cb5963-2afe-4691-92bc-76d957b87a10",
+      "number": "P09",
+      "title": "Microstructure Control through Deposition Temperature",
+      "authorIds": [
+        "person-4664dd9b-5828-4b58-b055-88104d6f0540"
+      ],
+      "abstract": "Synthetic poster describing preliminary data and a device characterization workflow.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:d58474a9-e879-476b-a96d-fba7364a5ca1",
+      "sequence": 0
+    },
+    {
+      "id": "poster-8ad23098-c055-4d69-807a-46448d25f072",
+      "posterSessionId": "session-fb83c18a-e479-479e-bb69-4a64d9b6acb9",
+      "number": "P10",
+      "title": "Fast Readout of Spiking Memristive Networks",
+      "authorIds": [
+        "person-bfb25cf3-f16f-400e-b900-b02af779bd75"
+      ],
+      "abstract": "Synthetic poster describing preliminary data and a device characterization workflow.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:8e868616-b51c-4b4d-9bb4-b88bd4910506",
+      "sequence": 0
+    },
+    {
+      "id": "poster-26d8d997-b095-4ff3-8f24-8d05aded4750",
+      "posterSessionId": "session-fb83c18a-e479-479e-bb69-4a64d9b6acb9",
+      "number": "P11",
+      "title": "Contact-Resistance Corrections in Crossbar Measurements",
+      "authorIds": [
+        "person-5115ac80-4e9a-44a9-b9d4-ac151c8683fa"
+      ],
+      "abstract": "Synthetic poster describing preliminary data and a device characterization workflow.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:2158b167-fc84-4ade-9def-c5106122ac8b",
+      "sequence": 0
+    },
+    {
+      "id": "poster-ce4f251d-87e4-4ac6-9a61-a552afae4595",
+      "posterSessionId": "session-fb83c18a-e479-479e-bb69-4a64d9b6acb9",
+      "number": "P12",
+      "title": "Spiking Detection with Mixed Ionic-Electronic Conductors",
+      "authorIds": [
+        "person-24a5a260-efe0-45fa-baaf-32ec633e89be"
+      ],
+      "abstract": "Synthetic poster describing preliminary data and a device characterization workflow.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:41bfb73f-d4e1-4321-b157-ad828a0f830e",
+      "sequence": 0
+    },
+    {
+      "id": "poster-d7dc2313-b7c3-40cd-9090-b25213fc1a89",
+      "posterSessionId": "session-fb83c18a-e479-479e-bb69-4a64d9b6acb9",
+      "number": "P13",
+      "title": "Calibration of Conductance in Multilevel RRAM Devices",
+      "authorIds": [
+        "person-fda8f169-f657-4ea6-8ef1-a3a52b9822c1"
+      ],
+      "abstract": "Synthetic poster describing preliminary data and a device characterization workflow.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:3afbad3a-6c64-4863-961b-cfd48ba3cbfd",
+      "sequence": 0
+    },
+    {
+      "id": "poster-ffb6c92a-dd07-4487-8d9d-5ddca572c416",
+      "posterSessionId": "session-fb83c18a-e479-479e-bb69-4a64d9b6acb9",
+      "number": "P14",
+      "title": "Hybrid Vision Processing with Local Adaptive Elements",
+      "authorIds": [
+        "person-db2689bd-250a-425d-8ea9-89fa5c1db5cf"
+      ],
+      "abstract": "Synthetic poster describing preliminary data and a device characterization workflow.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:97d3e905-ca6e-4dd7-a446-9970fec0f4fe",
+      "sequence": 0
+    },
+    {
+      "id": "poster-e6706662-b78b-4bb0-9ffe-8a1bf289329b",
+      "posterSessionId": "session-fb83c18a-e479-479e-bb69-4a64d9b6acb9",
+      "number": "P15",
+      "title": "Reliability of Edge-AI Accelerators under Thermal Cycling",
+      "authorIds": [
+        "person-363dc4c1-a7a8-4202-b2a2-cfc3108dfce6"
+      ],
+      "abstract": "Synthetic poster describing preliminary data and a device characterization workflow.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:e879bab7-8003-4642-a377-41f3a06bf455",
+      "sequence": 0
+    },
+    {
+      "id": "poster-4b0c2425-fbea-4202-9750-9c86c006d9bf",
+      "posterSessionId": "session-fb83c18a-e479-479e-bb69-4a64d9b6acb9",
+      "number": "P16",
+      "title": "Finite-Element Studies of Oxygen Migration at Interfaces",
+      "authorIds": [
+        "person-9f8dfce3-e0d1-4630-b4c5-bcd2c52c498a"
+      ],
+      "abstract": "Synthetic poster describing preliminary data and a device characterization workflow.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:53889ed1-2611-4f87-b5b0-1d5d89b75582",
+      "sequence": 0
+    },
+    {
+      "id": "poster-f27c1b25-bab7-4f56-bc35-4b66a2227e62",
+      "posterSessionId": "session-fb83c18a-e479-479e-bb69-4a64d9b6acb9",
+      "number": "P17",
+      "title": "Compact Learning Rules for Hardware Neural Systems",
+      "authorIds": [
+        "person-4664dd9b-5828-4b58-b055-88104d6f0540"
+      ],
+      "abstract": "Synthetic poster describing preliminary data and a device characterization workflow.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:7f8927e6-c64b-4619-9486-a129b671b5f5",
+      "sequence": 0
+    },
+    {
+      "id": "poster-8cc83c36-6a6e-464f-be07-a2a5ade553d7",
+      "posterSessionId": "session-fb83c18a-e479-479e-bb69-4a64d9b6acb9",
+      "number": "P18",
+      "title": "Low-Power Reservoir Dynamics in Oscillating Circuits",
+      "authorIds": [
+        "person-bfb25cf3-f16f-400e-b900-b02af779bd75"
+      ],
+      "abstract": "Synthetic poster describing preliminary data and a device characterization workflow.",
+      "keywords": [],
+      "links": [],
+      "calendarUid": "urn:uuid:b876ffa5-5f0e-48d6-ad97-30bf4ec55bcc",
+      "sequence": 0
+    }
+  ],
+  "announcements": []
+}

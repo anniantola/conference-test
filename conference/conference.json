@@ -1,0 +1,27 @@
+{
+  "id": "conference-7c614888-594f-435e-9abd-9b7c4840d504",
+  "name": "DEMO",
+  "shortName": "DEMO",
+  "fullName": "DEMO",
+  "startDate": "2027-11-08",
+  "endDate": "2027-11-11",
+  "timezone": "Europe/Helsinki",
+  "timezoneLabel": "",
+  "locale": "en-GB",
+  "language": "en",
+  "city": "Turku",
+  "country": "Finland",
+  "officialWebsite": "",
+  "contactEmail": "",
+  "mainVenueId": "venue-main",
+  "features": {
+    "posters": true,
+    "photos": true,
+    "notes": true,
+    "pptxExport": true,
+    "friendBook": true,
+    "calendarExport": true,
+    "announcements": true
+  },
+  "links": []
+}

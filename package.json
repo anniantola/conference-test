@@ -1,0 +1,11 @@
+{
+  "name": "conference-companion-deployment",
+  "version": "1.2.12",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "schema": "node tools/schema-check.mjs conference",
+    "validate": "node tools/validate-conference.mjs conference",
+    "test": "npm run schema && npm run validate"
+  }
+}

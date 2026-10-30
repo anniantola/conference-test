@@ -1,0 +1,27 @@
+{
+  "locations": [
+    {
+      "id": "venue-main",
+      "type": "venue",
+      "name": "Aurora Hall"
+    },
+    {
+      "id": "loc-9f33201d-4d56-4dad-a809-04ffc12e790f",
+      "type": "room",
+      "name": "Atrium",
+      "parentLocationId": "venue-main"
+    },
+    {
+      "id": "loc-4bd41efc-632b-4c01-b982-3b6eabd5829c",
+      "type": "room",
+      "name": "River Lab",
+      "parentLocationId": "venue-main"
+    },
+    {
+      "id": "loc-d08dbc68-3c98-4fbe-a12e-ed5b255a160e",
+      "type": "room",
+      "name": "Northern Gallery",
+      "parentLocationId": "venue-main"
+    }
+  ]
+}

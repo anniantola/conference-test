@@ -1,0 +1,177 @@
+{
+  "people": [
+    {
+      "id": "person-41afe078-bd39-450f-a94f-05cb39b5d983",
+      "name": "Mira Koskinen",
+      "affiliations": [
+        "Boreal Microelectronics Institute"
+      ]
+    },
+    {
+      "id": "person-b720b441-af7e-4008-9c90-6eb7e2b6095c",
+      "name": "Elena Duarte",
+      "affiliations": [
+        "Lumen Materials Research Centre"
+      ]
+    },
+    {
+      "id": "person-9f8dfce3-e0d1-4630-b4c5-bcd2c52c498a",
+      "name": "Yuna Sato",
+      "affiliations": [
+        "Helios Institute of Applied Physics"
+      ]
+    },
+    {
+      "id": "person-afe8800c-d848-4acf-9ee4-8b00491c87a1",
+      "name": "Anand Rao",
+      "affiliations": [
+        "North Coast Institute of Technology"
+      ]
+    },
+    {
+      "id": "person-3d472159-b79b-409e-9e87-00c1741b216a",
+      "name": "Sofia Lind",
+      "affiliations": [
+        "Boreal Microelectronics Institute"
+      ]
+    },
+    {
+      "id": "person-4664dd9b-5828-4b58-b055-88104d6f0540",
+      "name": "Lucas Pereira",
+      "affiliations": [
+        "Northern Systems Research University"
+      ]
+    },
+    {
+      "id": "person-a3e91bb6-b51e-46ea-8dd2-7d1a3a4dc670",
+      "name": "Aino Salminen",
+      "affiliations": [
+        "Arctic Computing Laboratory"
+      ],
+      "position": "",
+      "publicEmail": "",
+      "orcid": "",
+      "photoUrl": "",
+      "links": []
+    },
+    {
+      "id": "person-b935ade7-8618-404b-bfff-87dd56a181f3",
+      "name": "Maya Okafor",
+      "affiliations": [
+        "Lumen Materials Research Centre"
+      ]
+    },
+    {
+      "id": "person-bfb25cf3-f16f-400e-b900-b02af779bd75",
+      "name": "Jia Chen",
+      "affiliations": [
+        "Helios Institute of Applied Physics"
+      ]
+    },
+    {
+      "id": "person-97666587-8969-4b76-86cb-d9b374609d1e",
+      "name": "Tomás Velasco",
+      "affiliations": [
+        "Northern Systems Research University"
+      ]
+    },
+    {
+      "id": "person-27a9659c-c008-42fa-bdc9-31e41eac7020",
+      "name": "Nina Berger",
+      "affiliations": [
+        "Boreal Microelectronics Institute"
+      ]
+    },
+    {
+      "id": "person-5115ac80-4e9a-44a9-b9d4-ac151c8683fa",
+      "name": "Rami El-Amin",
+      "affiliations": [
+        "North Coast Institute of Technology"
+      ]
+    },
+    {
+      "id": "person-39c7c3b5-5b4b-4234-8500-003f541c2fee",
+      "name": "Isabel Costa",
+      "affiliations": [
+        "Lumen Materials Research Centre"
+      ]
+    },
+    {
+      "id": "person-ecda2da5-d3eb-48e1-8eb8-fc19aac3f270",
+      "name": "Kenji Mori",
+      "affiliations": [
+        "Helios Institute of Applied Physics"
+      ]
+    },
+    {
+      "id": "person-24a5a260-efe0-45fa-baaf-32ec633e89be",
+      "name": "Priya Das",
+      "affiliations": [
+        "Arctic Computing Laboratory"
+      ]
+    },
+    {
+      "id": "person-063157cb-b755-4f42-a301-d1bf5d01e8f1",
+      "name": "Emilia Novak",
+      "affiliations": [
+        "Northern Systems Research University"
+      ]
+    },
+    {
+      "id": "person-e26979fe-d0a4-420a-98a3-a1d2a2a37c0e",
+      "name": "Jia Chen",
+      "affiliations": [
+        "Boreal Microelectronics Institute"
+      ]
+    },
+    {
+      "id": "person-fda8f169-f657-4ea6-8ef1-a3a52b9822c1",
+      "name": "Daniel Okoye",
+      "affiliations": [
+        "Boreal Microelectronics Institute"
+      ]
+    },
+    {
+      "id": "person-7af3e953-47a9-4e9f-bc00-3fd146c61286",
+      "name": "Hana Mäkinen",
+      "affiliations": [
+        "North Coast Institute of Technology"
+      ]
+    },
+    {
+      "id": "person-0b16edfe-15a2-4dbc-8aca-10255cb4188a",
+      "name": "Pavel Horák",
+      "affiliations": [
+        "Northern Systems Research University"
+      ]
+    },
+    {
+      "id": "person-db2689bd-250a-425d-8ea9-89fa5c1db5cf",
+      "name": "Inès Laurent",
+      "affiliations": [
+        "Lumen Materials Research Centre"
+      ]
+    },
+    {
+      "id": "person-260706ca-9a59-4196-8487-6547f801b543",
+      "name": "Omar Farouk",
+      "affiliations": [
+        "Helios Institute of Applied Physics"
+      ]
+    },
+    {
+      "id": "person-363dc4c1-a7a8-4202-b2a2-cfc3108dfce6",
+      "name": "Rafael Moretti",
+      "affiliations": [
+        "North Coast Institute of Technology"
+      ]
+    },
+    {
+      "id": "person-56776a53-3374-43ab-956f-8a82d2b8338e",
+      "name": "Noor Haddad",
+      "affiliations": [
+        "Arctic Computing Laboratory"
+      ]
+    }
+  ]
+}

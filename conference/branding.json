@@ -1,0 +1,49 @@
+{
+  "logo": "assets/logo-light.png",
+  "logoLight": "assets/logo-light.png",
+  "logoDark": "assets/logo-dark.png",
+  "headerStyle": "logo",
+  "brandMode": "logo",
+  "logoAlignment": "left",
+  "logoSize": 72,
+  "headerBackgroundLight": "#ffffff",
+  "headerBackgroundDark": "#191a1d",
+  "typography": "system",
+  "headingFont": "inter",
+  "bodyFont": "inter",
+  "defaultAppearance": "system",
+  "primary": "#5b4b9a",
+  "secondary": "#5865f2",
+  "accent": "#33d17a",
+  "darkMode": false,
+  "trackColors": {
+    "common": "#99c1f1",
+    "track-4dcf52a1-64ca-4e19-a9eb-fb7ade4abd51": "#8ff0a4",
+    "track-51aaca83-d4e4-4240-adf8-341a1d165e77": "#f9f06b",
+    "track-4717d297-c9fe-4858-9959-32bb5107e939": "#ffbe6f",
+    "track-4e5cb6d7-0573-45b8-8440-847c7419cc25": "#f66151"
+  },
+  "locationColors": {
+    "loc-9f33201d-4d56-4dad-a809-04ffc12e790f": "#1a5fb4",
+    "loc-4bd41efc-632b-4c01-b982-3b6eabd5829c": "#26a269",
+    "loc-d08dbc68-3c98-4fbe-a12e-ed5b255a160e": "#e5a50a"
+  },
+  "sponsorAssets": [
+    "assets/sponsor-1-light.png",
+    "assets/sponsor-2-light.png"
+  ],
+  "sponsorLogos": [
+    {
+      "name": "Sponsor 1",
+      "light": "assets/sponsor-1-light.png",
+      "dark": null,
+      "height": 48
+    },
+    {
+      "name": "Sponsor 2",
+      "light": "assets/sponsor-2-light.png",
+      "dark": null,
+      "height": 48
+    }
+  ]
+}
