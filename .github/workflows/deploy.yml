@@ -22,15 +22,19 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v6
+      - name: Check out shared attendee engine
+        uses: actions/checkout@v6
+        with:
+          repository: anniantola/conference-companion
+          ref: f829d7ca7536e521b959826c8251ce64a09d5d1a
+          path: .engine
       - uses: actions/setup-node@v4
         with:
           node-version: 22
       - name: Validate conference package
         run: npm test
       - name: Stage public application files
-        run: |
-          mkdir _site
-          cp -r index.html app.js bootstrap.js styles.css service-worker.js manifest.webmanifest icon-*.png share-preview.svg assets src schemas conference tools _site/
+        run: npm run stage
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
