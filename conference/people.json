@@ -3,6 +3,8 @@
     {
       "id": "person-41afe078-bd39-450f-a94f-05cb39b5d983",
       "name": "Mira Koskinen",
+      "orcid": "0000-0000-0000-001X",
+      "publicEmail": "mira.koskinen@demo.example",
       "affiliations": [
         "Boreal Microelectronics Institute"
       ]
@@ -10,6 +12,8 @@
     {
       "id": "person-b720b441-af7e-4008-9c90-6eb7e2b6095c",
       "name": "Elena Duarte",
+      "orcid": "0000-0000-0000-0028",
+      "publicEmail": "elena.duarte@demo.example",
       "affiliations": [
         "Lumen Materials Research Centre"
       ]
@@ -17,6 +21,8 @@
     {
       "id": "person-9f8dfce3-e0d1-4630-b4c5-bcd2c52c498a",
       "name": "Yuna Sato",
+      "orcid": "0000-0000-0000-0036",
+      "publicEmail": "yuna.sato@demo.example",
       "affiliations": [
         "Helios Institute of Applied Physics"
       ]
@@ -38,6 +44,8 @@
     {
       "id": "person-4664dd9b-5828-4b58-b055-88104d6f0540",
       "name": "Lucas Pereira",
+      "orcid": "0000-0000-0000-0044",
+      "publicEmail": "lucas.pereira@demo.example",
       "affiliations": [
         "Northern Systems Research University"
       ]

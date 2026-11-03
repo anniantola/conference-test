@@ -677,7 +677,8 @@
       "end": "09:45",
       "title": "Beyond von Neumann: From Materials to Adaptive Systems",
       "speakerIds": [
-        "person-41afe078-bd39-450f-a94f-05cb39b5d983"
+        "person-41afe078-bd39-450f-a94f-05cb39b5d983",
+        "person-9f8dfce3-e0d1-4630-b4c5-bcd2c52c498a"
       ],
       "abstract": "Synthetic keynote describing open challenges, modeling and integration strategies for energy-efficient brain-inspired hardware.",
       "keywords": [],

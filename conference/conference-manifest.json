@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 1,
+  "dataVersion": 2,
   "minimumEngineVersion": "1.2.12",
-  "publishedAt": "2026-10-30T10:15:01.645Z",
+  "publishedAt": "2026-11-03T08:45:00.000Z",
   "files": [
     "conference.json",
     "programme.json",
@@ -12,10 +12,10 @@
   ],
   "checksums": {
     "conference.json": "85f921f495bb770b090d77bfbfb156b4703a273783ff0d199cf4c6b5a77fc9ae",
-    "programme.json": "c0c0a09d34209022262a1b13fbc9d319aef42d0082399419c776f0cd253f6c05",
-    "people.json": "751cbabcc4dcb0be3923b8f0ee378ca7b08e9f4bfec5bddc0f7e3fb14c3ccf42",
+    "programme.json": "c0d467d4c6c4df8bceddee0095453959d004838f02492242dc2bf1059e43dd04",
+    "people.json": "a8d20833df18a2fe7871d754c8423041608b785883b989d2e0d720a795993398",
     "locations.json": "304e810b0a3233b1e8834fbe016876517c396b3fe535e48560cc4a35fef092b1",
     "branding.json": "48b8997c352f0749fc665410b71ef88b2fb546ec03dfe525812b2d4e193096c5"
   },
-  "changelog": []
+  "changelog": [{"version": 2, "publishedAt": "2026-11-03T08:45:00.000Z", "message": "Added synthetic public identifiers and a co-presented keynote for Friend Book demonstrations."}]
 }
