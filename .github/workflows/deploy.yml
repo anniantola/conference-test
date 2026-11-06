@@ -26,7 +26,7 @@ jobs:
         uses: actions/checkout@v6
         with:
           repository: anniantola/conference-companion
-          ref: f8085411b29ea9c9c2c428cb130e5f0a0cf63adc
+          ref: 99927aa3c5c22fd67e50f772b81c4c4b8cca51f6
           path: .engine
       - uses: actions/setup-node@v4
         with:
