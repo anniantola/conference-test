@@ -1,6 +1,6 @@
 # Conference Companion deployment
 
-This repository owns the DEMO conference package, install branding and its own GitHub Pages deployment. The attendee engine, schemas and validators come from `anniantola/conference-companion` during the Pages build. The workflow checks out the tested v1.2.22 engine commit `e2cdc2429e1ec924e2889bffda959b13d0cb8963` into `.engine`, validates this conference, stages only attendee files into `_site`, and deploys the result. The two repositories keep separate Git histories and Pages deployments. To adopt a later engine release, update the pinned `ref` in `.github/workflows/deploy.yml` and rerun validation before publishing.
+This repository owns the DEMO conference package, install branding and its own GitHub Pages deployment. The attendee engine, schemas and validators come from `anniantola/conference-companion` during the Pages build. The workflow checks out the tested v1.2.22 engine commit `d302c0b5b987f8a7046ecdbddea916bfe8f6aa2f` into `.engine`, validates this conference, stages only attendee files into `_site`, and deploys the result. The two repositories keep separate Git histories and Pages deployments. To adopt a later engine release, update the pinned `ref` in `.github/workflows/deploy.yml` and rerun validation before publishing.
 
 For local checks, keep `conference-companion` beside this repository, then run `npm test` and `npm run stage`. Set `CONFERENCE_ENGINE_DIR` to a different engine checkout when needed. The `_site` output is generated and ignored by Git.
 
