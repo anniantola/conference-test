@@ -7,5 +7,5 @@ For local checks, keep `conference-companion` beside this repository, then run `
 Existing v1.2.12 attendee records remain in browser storage after this engine upgrade, but the new deployment-scoped store does not automatically assign those older origin-wide records to DEMO. Restore a personal backup in this deployment if available. If no backup exists, keep the browser profile and site data intact for assisted recovery.
 
 Conference: DEMO
-Data version: 1
-Generated: 2026-10-30T10:15:01.645Z
+Data version: 2
+Data release published: 2026-11-03T08:45:00.000Z
